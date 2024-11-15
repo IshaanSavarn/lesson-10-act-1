@@ -1,0 +1,19 @@
+body{
+    background-image: url("space95.jpg");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: red;
+   }
+   h1{
+    color:darkorange;
+    background-color: gold;
+    text-decoration: underline;
+   }
+   a{
+    color:deeppink;
+    background-color: lawngreen;
+       }
+       a:hover {
+        color:fuchsia
+       }
